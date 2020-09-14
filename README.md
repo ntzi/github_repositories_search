@@ -9,34 +9,27 @@ Using GitHub API v4
 #### Steps
  - Clone master branch
 
-
-    $ git clone https://github.com/ntzi/github_repositories_search.git
-
+        $ git clone https://github.com/ntzi/github_repositories_search.git
 
  - Install  dependencies
 
-
-    $ npm install
-
+        $ npm install
 
 - Create .env file in *github_repositories_search/* directory.\
   .env file must include the api key of personal account in GitHub.\
    Example .env file:\
 
-
-    REACT_APP_GITHUB_ACCESS_TOKEN=<my-github-api-key>
-
+        REACT_APP_GITHUB_ACCESS_TOKEN=<my-github-api-key>
 
  - Start
 
-
-    $ npm start
+        $ npm start
 
 
 
 #### Tests
 
-    npm test
+        npm test
 
 
  ## Authors
