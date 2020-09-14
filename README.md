@@ -9,14 +9,14 @@ Using GitHub API v4
 #### Steps
  - Clone master branch
 
-      $ git clone https://github.com/ntzi/shipping_possibilities.git
+      $ git clone https://github.com/ntzi/github_repositories_search.git
 
  - Install  dependencies
 
       $ npm install
 
-- Create .env file in *X_Market/* directory.\
-  .env file must include the api key of personal account in Binance.\
+- Create .env file in *github_repositories_search/* directory.\
+  .env file must include the api key of personal account in GitHub.\
    Example .env file:\
 
       REACT_APP_GITHUB_ACCESS_TOKEN=<my-github-api-key>
@@ -33,7 +33,7 @@ Using GitHub API v4
 
  ## Authors
 
- * **Nikos Tziralis** - *Initial work* - [GitHub Repositories Search](https://github.com/ntzi/Shipping_Possibilities)
+ * **Nikos Tziralis** - *Initial work* - [GitHub Repositories Search](https://github.com/ntzi/github_repositories_search)
 
  ## License
 
